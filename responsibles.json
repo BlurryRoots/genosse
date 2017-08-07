@@ -1,0 +1,865 @@
+{
+  "1": {
+    "name": "Allgemeine Deutsche Schiffszimmerer-genossenschaft eg",
+    "address": {
+      "street": "Fuhlsbüttler Straße 672",
+      "zip": "22337",
+      "city": "Hamburg",
+      "phone": "63800-0",
+      "url": "www.schiffszimmerer.de"
+    },
+    "districts": [
+      17,
+      18,
+      21,
+      23,
+      30,
+      33,
+      36,
+      37,
+      39,
+      42,
+      44,
+      47,
+      51,
+      52,
+      56,
+      57,
+      59,
+      60,
+      66,
+      67,
+      69,
+      87,
+      88,
+      90,
+      96,
+      97,
+      98,
+      99,
+      101,
+      105,
+      113,
+      116
+    ]
+  },
+  "2": {
+    "name": "Altonaer Spar- und Bauverein eg",
+    "address": {
+      "street": "Max–Brauer–Allee 69",
+      "zip": "22765",
+      "city": "Hamburg",
+      "phone": "38 90 10-0",
+      "url": "www.altoba.de"
+    },
+    "districts": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      10,
+      11,
+      15,
+      34,
+      36,
+      37,
+      42,
+      51,
+      52,
+      99
+    ]
+  },
+  "3": {
+    "name": "Baugenossenschaft Dennerstraße-Selbsthilfe eg",
+    "address": {
+      "street": "Hufnerstraße 28",
+      "zip": "22083",
+      "city": "Hamburg",
+      "phone": "20200-30",
+      "url": "www.bds–hamburg.de"
+    },
+    "districts": [
+      7,
+      21,
+      36,
+      39,
+      40,
+      42,
+      44,
+      57,
+      58,
+      59,
+      66,
+      69,
+      88,
+      90,
+      91,
+      92,
+      96,
+      97,
+      99,
+      101,
+      102
+    ]
+  },
+  "4": {
+    "name": "Baugenossenschaft der Buchdrucker eg",
+    "address": {
+      "street": "Steilshooper Straße 94",
+      "zip": "22305",
+      "city": "Hamburg",
+      "phone": "697081-0",
+      "url": "www.buchdrucker.de"
+    },
+    "districts": [
+      17,
+      21,
+      33,
+      36,
+      46,
+      58,
+      59,
+      65,
+      66,
+      67,
+      88,
+      96,
+      97,
+      99
+    ]
+  },
+  "5": {
+    "name": "Baugenossenschaft dhu eg",
+    "address": {
+      "street": "Buchsbaumweg 10 a",
+      "zip": "22299",
+      "city": "Hamburg",
+      "phone": "514943-0",
+      "url": "www.d–h–u.de"
+    },
+    "districts": [
+      4,
+      10,
+      21,
+      23,
+      30,
+      33,
+      34,
+      36,
+      37,
+      39,
+      40,
+      46,
+      47,
+      58,
+      59,
+      60,
+      61,
+      66,
+      67,
+      69,
+      88,
+      90,
+      91,
+      93,
+      96,
+      97,
+      99,
+      101,
+      102,
+      105
+    ]
+  },
+  "6": {
+    "name": "Baugenossenschaft Finkenwärder-Hoffnung eg",
+    "address": {
+      "street": "Uhlenhoffweg 1a",
+      "zip": "21129",
+      "city": "Hamburg",
+      "phone": "31186-600",
+      "url": "www.fwheg.de"
+    },
+    "districts": [
+      41,
+      56,
+      72,
+      75,
+      76,
+      82,
+      117
+    ]
+  },
+  "7": {
+    "name": "Baugenossenschaft FLuWOg-NOrDMArK eg",
+    "address": {
+      "street": "Wiesendamm 9",
+      "zip": "22305",
+      "city": "Hamburg",
+      "phone": "531091-0",
+      "url": "www.fluwog.de"
+    },
+    "districts": [
+      21,
+      29,
+      34,
+      36,
+      39,
+      42,
+      44,
+      46,
+      47,
+      57,
+      58,
+      59,
+      60,
+      62,
+      63,
+      66,
+      68,
+      90,
+      92,
+      97,
+      99,
+      102
+    ]
+  },
+  "8": {
+    "name": "Baugenossenschaft freier gewerkschafter eg",
+    "address": {
+      "street": "Willy–Brandt–Straße 67",
+      "zip": "20457",
+      "city": "Hamburg",
+      "phone": "211100-0",
+      "url": "www.bgfg.de"
+    },
+    "districts": [
+      1,
+      2,
+      7,
+      21,
+      23,
+      30,
+      34,
+      36,
+      37,
+      39,
+      43,
+      44,
+      46,
+      47,
+      50,
+      51,
+      52,
+      57,
+      58,
+      59,
+      60,
+      62,
+      63,
+      67,
+      69,
+      82,
+      88,
+      97,
+      99,
+      102,
+      110,
+      111,
+      116
+    ]
+  },
+  "9": {
+    "name": "Baugenossenschaft Fuhlsbüttel eg",
+    "address": {
+      "street": "Sengelmannstraße 185",
+      "zip": "22335",
+      "city": "Hamburg",
+      "phone": "1814695-0",
+      "url": "www.bg–fuhlsbuettel.de"
+    },
+    "districts": [
+      4,
+      57,
+      61,
+      62,
+      66,
+      99,
+      102,
+      115
+    ]
+  },
+  "10": {
+    "name": "Baugenossenschaft Hamburger Wohnen eg",
+    "address": {
+      "street": "Försterweg 46",
+      "zip": "22525",
+      "city": "Hamburg",
+      "phone": "540006-0",
+      "url": "www.hamburgerwohnen.de"
+    },
+    "districts": [
+      4,
+      57,
+      61,
+      62,
+      66,
+      99,
+      102,
+      115
+    ]
+  },
+  "11": {
+    "name": "Baugenossenschaft Kolping eg",
+    "address": {
+      "street": "Eulenkamp 18",
+      "zip": "22049",
+      "city": "Hamburg",
+      "phone": "6524052",
+      "url": "www.baugenossenschaft–kolping.de"
+    },
+    "districts": [
+      21,
+      30,
+      39,
+      66,
+      75,
+      97,
+      99,
+      102
+    ]
+  },
+  "12": {
+    "name": "Bauverein der Elbgemeinden eg",
+    "address": {
+      "street": "Heidrehmen 1",
+      "zip": "22589",
+      "city": "",
+      "phone": "24422-0",
+      "url": "www.bve.de"
+    },
+    "districts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      29,
+      30,
+      33,
+      34,
+      36,
+      39,
+      42,
+      43,
+      44,
+      47,
+      52,
+      56,
+      57,
+      61,
+      66,
+      82,
+      85,
+      90,
+      92,
+      96,
+      113,
+      114,
+      117
+    ]
+  },
+  "13": {
+    "name": "Bauverein reiherstieg eg",
+    "address": {
+      "street": "Georg-Wilhelm-Straße 127 a",
+      "zip": "21107",
+      "city": "",
+      "phone": "752489-0",
+      "url": "www.reiherstieg.de"
+    },
+    "districts": [
+      15,
+      56,
+      76,
+      82
+    ]
+  },
+  "14": {
+    "name": "Eisenbahnbauverein Harburg eg",
+    "address": {
+      "street": "rosentreppe 1 a",
+      "zip": "21079",
+      "city": "Hamburg",
+      "phone": "76404-0",
+      "url": "www.ebv–harburg.de"
+    },
+    "districts": [
+      59,
+      68,
+      72,
+      75,
+      77,
+      86,
+      117
+    ]
+  },
+  "15": {
+    "name": "gartenstadt Hamburg eg Wohnungsgenossenschaft",
+    "address": {
+      "street": "Berner Allee 31 a",
+      "zip": "22159",
+      "city": "Hamburg",
+      "phone": "644106-0",
+      "url": "www.gartenstadt–hamburg.de"
+    },
+    "districts": [
+      88,
+      91,
+      93,
+      97,
+      98,
+      99,
+      101
+    ]
+  },
+  "16": {
+    "name": "gemeinnützige Baugenossenschaft Bergedorf-Bille eg",
+    "address": {
+      "street": "Bergedorfer Straße 118 -122",
+      "zip": "21029",
+      "city": "Hamburg",
+      "phone": "725600-0",
+      "url": "www.bergedorf–bille.de"
+    },
+    "districts": [
+      15,
+      17,
+      21,
+      22,
+      23,
+      39,
+      42,
+      43,
+      46,
+      47,
+      51,
+      52,
+      90,
+      100,
+      120
+    ]
+  },
+  "17": {
+    "name": "Hamburger Lehrer-Baugenossenschaft eg",
+    "address": {
+      "street": "Lokstedter Steindamm 74 a",
+      "zip": "22529",
+      "city": "Hamburg",
+      "phone": "560078-0",
+      "url": "www.lehrerbau.de"
+    },
+    "districts": [
+      2,
+      11,
+      15,
+      30,
+      33,
+      37,
+      41,
+      46,
+      56,
+      59,
+      61,
+      63,
+      68,
+      77,
+      90,
+      95,
+      99
+    ]
+  },
+  "18": {
+    "name": "Hamburg-rahlstedter Baugenossenschaft eg",
+    "address": {
+      "street": "Bargteheider Straße 99",
+      "zip": "22143",
+      "city": "Hamburg",
+      "phone": "673609-0",
+      "url": "www.harabau.de"
+    },
+    "districts": [
+      11,
+      15,
+      17,
+      29,
+      30,
+      39,
+      51,
+      75,
+      91,
+      96,
+      97,
+      101,
+      102
+    ]
+  },
+  "19": {
+    "name": "HANSA Baugenossenschaft eg",
+    "address": {
+      "street": "Lämmersieth 49",
+      "zip": "22305",
+      "city": "Hamburg",
+      "phone": "69201-110",
+      "url": "www.hansa–baugenossenschaft.de"
+    },
+    "districts": [
+      1,
+      2,
+      9,
+      11,
+      15,
+      17,
+      21,
+      23,
+      33,
+      39,
+      43,
+      46,
+      47,
+      50,
+      51,
+      52,
+      58,
+      59,
+      60,
+      69,
+      88,
+      90,
+      93,
+      95,
+      97,
+      99,
+      102
+    ]
+  },
+  "20": {
+    "name": "Hanseatische Baugenossenschaft Hamburg eg",
+    "address": {
+      "street": "Lämmersieth 9",
+      "zip": "22305",
+      "city": "Hamburg",
+      "phone": "29909-0",
+      "url": "www.hanseatische.de"
+    },
+    "districts": [
+      15,
+      32,
+      39,
+      40,
+      46,
+      47,
+      58,
+      59,
+      60,
+      69,
+      76,
+      79,
+      82,
+      87,
+      88,
+      90,
+      91,
+      97,
+      99,
+      102
+    ]
+  },
+  "21": {
+    "name": "Mietergenossenschaft gartenstadt Farmsen eg",
+    "address": {
+      "street": "Bramfelder Weg 35",
+      "zip": "22159",
+      "city": "Hamburg",
+      "phone": "645572-0",
+      "url": "www.mgf–farmsen.de"
+    },
+    "districts": [
+      91
+    ]
+  },
+  "22": {
+    "name": "Vereinigte Hamburger Wohnungsbaugenossenschaft eg",
+    "address": {
+      "street": "Hohenfelder Allee 2",
+      "zip": "22087",
+      "city": "Hamburg",
+      "phone": "251512-0",
+      "url": "www.vhw–hamburg.de"
+    },
+    "districts": [
+      3,
+      21,
+      30,
+      33,
+      34,
+      39,
+      40,
+      46,
+      50,
+      51,
+      52,
+      53,
+      56,
+      57,
+      58,
+      60,
+      61,
+      62,
+      63,
+      65,
+      66,
+      67,
+      68,
+      72,
+      76,
+      77,
+      81,
+      82,
+      89,
+      91,
+      92,
+      93,
+      97,
+      101,
+      102,
+      103,
+      106,
+      107,
+      115,
+      118,
+      134,
+      138,
+      139,
+      140,
+      150
+    ]
+  },
+  "23": {
+    "name": "Walddörfer Wohnungsbaugenossenschaft eg",
+    "address": {
+      "street": "Volksdorfer Damm 188",
+      "zip": "22359",
+      "city": "Hamburg",
+      "phone": "604476-0",
+      "url": "www.walddoerfer.de"
+    },
+    "districts": [
+      47,
+      87,
+      92,
+      96,
+      99,
+      101,
+      105
+    ]
+  },
+  "24": {
+    "name": "Wohnungsbaugenossenschaft gartenstadt Wandsbek eg",
+    "address": {
+      "street": "Gartenstadtweg 81",
+      "zip": "22049",
+      "city": "Hamburg",
+      "phone": "696959-0",
+      "url": "www.gartenstadt–wandsbek.de"
+    },
+    "districts": [
+      29,
+      34,
+      37,
+      39,
+      40,
+      47,
+      67,
+      72,
+      75,
+      78,
+      84,
+      88,
+      90,
+      91,
+      95,
+      96,
+      97,
+      99,
+      102
+    ]
+  },
+  "25": {
+    "name": "Wohnungsbaugenossenschaft KAIFu-NOrDLAND eg",
+    "address": {
+      "street": "Sophienallee 33",
+      "zip": "20257",
+      "city": "Hamburg",
+      "phone": "431702-0",
+      "url": "www.kaifu.de"
+    },
+    "districts": [
+      2,
+      3,
+      11,
+      12,
+      15,
+      29,
+      30,
+      31,
+      33,
+      36,
+      37,
+      46,
+      58,
+      59,
+      60,
+      61,
+      64,
+      65,
+      66,
+      69,
+      90,
+      92,
+      93,
+      97,
+      99,
+      100,
+      102
+    ]
+  },
+  "26": {
+    "name": "Wohnungsbaugenossenschaft „Süderelbe“",
+    "address": {
+      "street": "Kleinfeld 86",
+      "zip": "21149",
+      "city": "Hamburg",
+      "phone": "702052-0",
+      "url": "www.baugen–suederelbe.de"
+    },
+    "districts": [
+      41,
+      46,
+      56,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      82,
+      84,
+      86,
+      117,
+      119,
+      121
+    ]
+  },
+  "27": {
+    "name": "Wohnungsgenossenschaft Hamburg-Wandsbek von 1897 eg",
+    "address": {
+      "street": "Gladowstraße 20",
+      "zip": "22041",
+      "city": "Hamburg",
+      "phone": "682877-0",
+      "url": "www.whw1897.de"
+    },
+    "districts": [
+      21,
+      60,
+      88,
+      93,
+      97,
+      99,
+      100,
+      102
+    ]
+  },
+  "28": {
+    "name": "Wohnungsgenossenschaft von 1904 eg",
+    "address": {
+      "street": "Landwehr 34",
+      "zip": "22087",
+      "city": "Hamburg",
+      "phone": "423008-0",
+      "url": "www.1904.de"
+    },
+    "districts": [
+      1,
+      29,
+      30,
+      31,
+      32,
+      34,
+      37,
+      39,
+      40,
+      46,
+      47,
+      50,
+      58,
+      59,
+      60,
+      64,
+      65,
+      66,
+      69,
+      90,
+      91,
+      93,
+      97,
+      98,
+      99,
+      101,
+      102
+    ]
+  },
+  "29": {
+    "name": "Wohnungsverein Hamburg von 1902 eg",
+    "address": {
+      "street": "Angerstraße 3",
+      "zip": "22087",
+      "city": "Hamburg",
+      "phone": "251927-0",
+      "url": "www.wv1902.de"
+    },
+    "districts": [
+      15,
+      17,
+      30,
+      40,
+      46,
+      47,
+      52,
+      58,
+      59,
+      62,
+      66,
+      67,
+      69,
+      88,
+      90,
+      91,
+      93,
+      96,
+      97,
+      99,
+      100
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+	"1": {
+		"district": "Altona-Altstadt",
+		"precinct": "Altona"
+	},
+	"2": {
+		"district": "Altona-Nord",
+		"precinct": "Altona"
+	},
+	"3": {
+		"district": "Bahrenfeld",
+		"precinct": "Altona"
+	},
+	"4": {
+		"district": "Blankenese",
+		"precinct": "Altona"
+	},
+	"5": {
+		"district": "Groß Flottbek",
+		"precinct": "Altona"
+	},
+	"6": {
+		"district": "Iserbrook",
+		"precinct": "Altona"
+	},
+	"7": {
+		"district": "Lurup",
+		"precinct": "Altona"
+	},
+	"8": {
+		"district": "Nienstedten",
+		"precinct": "Altona"
+	},
+	"9": {
+		"district": "Osdorf",
+		"precinct": "Altona"
+	},
+	"10": {
+		"district": "Othmarschen",
+		"precinct": "Altona"
+	},
+	"11": {
+		"district": "Ottensen",
+		"precinct": "Altona"
+	},
+	"12": {
+		"district": "Rissen",
+		"precinct": "Altona"
+	},
+	"13": {
+		"district": "Sternschanze",
+		"precinct": "Altona"
+	},
+	"14": {
+		"district": "Sülldorf",
+		"precinct": "Altona"
+	},
+	"15": {
+		"district": "Allermöhe",
+		"precinct": "Bergedorf"
+	},
+	"16": {
+		"district": "Altengamme",
+		"precinct": "Bergedorf"
+	},
+	"17": {
+		"district": "Bergedorf",
+		"precinct": "Bergedorf"
+	},
+	"18": {
+		"district": "Billwerder",
+		"precinct": "Bergedorf"
+	},
+	"19": {
+		"district": "Curslack",
+		"precinct": "Bergedorf"
+	},
+	"20": {
+		"district": "Kirchwerder",
+		"precinct": "Bergedorf"
+	},
+	"21": {
+		"district": "Lohbrügge",
+		"precinct": "Bergedorf"
+	},
+	"22": {
+		"district": "Moorfleet",
+		"precinct": "Bergedorf"
+	},
+	"23": {
+		"district": "Neuallermöhe",
+		"precinct": "Bergedorf"
+	},
+	"24": {
+		"district": "Neuengamme",
+		"precinct": "Bergedorf"
+	},
+	"25": {
+		"district": "Ochsenwerder",
+		"precinct": "Bergedorf"
+	},
+	"26": {
+		"district": "Reitbrook",
+		"precinct": "Bergedorf"
+	},
+	"27": {
+		"district": "Spadenland",
+		"precinct": "Bergedorf"
+	},
+	"28": {
+		"district": "Tatenberg",
+		"precinct": "Bergedorf"
+	},
+	"29": {
+		"district": "Eidelstedt",
+		"precinct": "Eimsbüttel"
+	},
+	"30": {
+		"district": "Eimsbüttel",
+		"precinct": "Eimsbüttel"
+	},
+	"31": {
+		"district": "Harvestehude",
+		"precinct": "Eimsbüttel"
+	},
+	"32": {
+		"district": "Hoheluft-West",
+		"precinct": "Eimsbüttel"
+	},
+	"33": {
+		"district": "Lokstedt",
+		"precinct": "Eimsbüttel"
+	},
+	"34": {
+		"district": "Niendorf",
+		"precinct": "Eimsbüttel"
+	},
+	"35": {
+		"district": "Rotherbaum",
+		"precinct": "Eimsbüttel"
+	},
+	"36": {
+		"district": "Schnelsen",
+		"precinct": "Eimsbüttel"
+	},
+	"37": {
+		"district": "Stellingen",
+		"precinct": "Eimsbüttel"
+	},
+	"38": {
+		"district": "Billbrook",
+		"precinct": "Hamburg-Mitte"
+	},
+	"39": {
+		"district": "Billstedt",
+		"precinct": "Hamburg-Mitte"
+	},
+	"40": {
+		"district": "Borgfelde",
+		"precinct": "Hamburg-Mitte"
+	},
+	"41": {
+		"district": "Finkenwerder",
+		"precinct": "Hamburg-Mitte"
+	},
+	"42": {
+		"district": "HafenCity",
+		"precinct": "Hamburg-Mitte"
+	},
+	"43": {
+		"district": "Altstadt",
+		"precinct": "Hamburg-Mitte"
+	},
+	"44": {
+		"district": "Neustadt",
+		"precinct": "Hamburg-Mitte"
+	},
+	"45": {
+		"district": "Hammerbrook",
+		"precinct": "Hamburg-Mitte"
+	},
+	"46": {
+		"district": "Hamm",
+		"precinct": "Hamburg-Mitte"
+	},
+	"47": {
+		"district": "Horn",
+		"precinct": "Hamburg-Mitte"
+	},
+	"48": {
+		"district": "Insel Neuwerk",
+		"precinct": "Hamburg-Mitte"
+	},
+	"49": {
+		"district": "Kleiner Grasbrook",
+		"precinct": "Hamburg-Mitte"
+	},
+	"50": {
+		"district": "Rothenburgsort",
+		"precinct": "Hamburg-Mitte"
+	},
+	"51": {
+		"district": "St. Georg",
+		"precinct": "Hamburg-Mitte"
+	},
+	"52": {
+		"district": "St. Pauli",
+		"precinct": "Hamburg-Mitte"
+	},
+	"53": {
+		"district": "Steinwerder",
+		"precinct": "Hamburg-Mitte"
+	},
+	"54": {
+		"district": "Veddel",
+		"precinct": "Hamburg-Mitte"
+	},
+	"55": {
+		"district": "Waltershof",
+		"precinct": "Hamburg-Mitte"
+	},
+	"56": {
+		"district": "Wilhelmsburg",
+		"precinct": "Hamburg-Mitte"
+	},
+	"57": {
+		"district": "Alsterdorf",
+		"precinct": "Hamburg-Nord"
+	},
+	"58": {
+		"district": "Barmbek-Nord",
+		"precinct": "Hamburg-Nord"
+	},
+	"59": {
+		"district": "Barmbek-Süd",
+		"precinct": "Hamburg-Nord"
+	},
+	"60": {
+		"district": "Dulsberg",
+		"precinct": "Hamburg-Nord"
+	},
+	"61": {
+		"district": "Eppendorf",
+		"precinct": "Hamburg-Nord"
+	},
+	"62": {
+		"district": "Fuhlsbüttel",
+		"precinct": "Hamburg-Nord"
+	},
+	"63": {
+		"district": "Groß Borstel",
+		"precinct": "Hamburg-Nord"
+	},
+	"64": {
+		"district": "Hoheluft-Ost",
+		"precinct": "Hamburg-Nord"
+	},
+	"65": {
+		"district": "Hohenfelde",
+		"precinct": "Hamburg-Nord"
+	},
+	"66": {
+		"district": "Langenhorn",
+		"precinct": "Hamburg-Nord"
+	},
+	"67": {
+		"district": "Ohlsdorf",
+		"precinct": "Hamburg-Nord"
+	},
+	"68": {
+		"district": "Uhlenhorst",
+		"precinct": "Hamburg-Nord"
+	},
+	"69": {
+		"district": "Winterhude",
+		"precinct": "Hamburg-Nord"
+	},
+	"70": {
+		"district": "Altenwerder",
+		"precinct": "Harburg"
+	},
+	"71": {
+		"district": "Cranz",
+		"precinct": "Harburg"
+	},
+	"72": {
+		"district": "Eißendorf",
+		"precinct": "Harburg"
+	},
+	"73": {
+		"district": "Francop",
+		"precinct": "Harburg"
+	},
+	"74": {
+		"district": "Gut Moor",
+		"precinct": "Harburg"
+	},
+	"75": {
+		"district": "Harburg",
+		"precinct": "Harburg"
+	},
+	"76": {
+		"district": "Hausbruch",
+		"precinct": "Harburg"
+	},
+	"77": {
+		"district": "Heimfeld",
+		"precinct": "Harburg"
+	},
+	"78": {
+		"district": "Langenbek",
+		"precinct": "Harburg"
+	},
+	"79": {
+		"district": "Marmstorf",
+		"precinct": "Harburg"
+	},
+	"80": {
+		"district": "Moorburg",
+		"precinct": "Harburg"
+	},
+	"81": {
+		"district": "Neuenfelde",
+		"precinct": "Harburg"
+	},
+	"82": {
+		"district": "Neugraben-Fischbek",
+		"precinct": "Harburg"
+	},
+	"83": {
+		"district": "Neuland",
+		"precinct": "Harburg"
+	},
+	"84": {
+		"district": "Rönneburg ",
+		"precinct": "Harburg"
+	},
+	"85": {
+		"district": "Sinstorf",
+		"precinct": "Harburg"
+	},
+	"86": {
+		"district": "Wilstorf",
+		"precinct": "Harburg"
+	},
+	"87": {
+		"district": "Bergstedt",
+		"precinct": "Wandsbek"
+	},
+	"88": {
+		"district": "Bramfeld",
+		"precinct": "Wandsbek"
+	},
+	"89": {
+		"district": "Duvenstedt",
+		"precinct": "Wandsbek"
+	},
+	"90": {
+		"district": "Eilbek",
+		"precinct": "Wandsbek"
+	},
+	"91": {
+		"district": "Farmsen-Berne",
+		"precinct": "Wandsbek"
+	},
+	"92": {
+		"district": "Hummelsbüttel",
+		"precinct": "Wandsbek"
+	},
+	"93": {
+		"district": "Jenfeld",
+		"precinct": "Wandsbek"
+	},
+	"94": {
+		"district": "Lehmsahl-Mellingstedt",
+		"precinct": "Wandsbek"
+	},
+	"95": {
+		"district": "Marienthal",
+		"precinct": "Wandsbek"
+	},
+	"96": {
+		"district": "Poppenbüttel",
+		"precinct": "Wandsbek"
+	},
+	"97": {
+		"district": "Rahlstedt ",
+		"precinct": "Wandsbek"
+	},
+	"98": {
+		"district": "Sasel",
+		"precinct": "Wandsbek"
+	},
+	"99": {
+		"district": "Steilshoop",
+		"precinct": "Wandsbek"
+	},
+	"100": {
+		"district": "Tonndorf",
+		"precinct": "Wandsbek"
+	},
+	"101": {
+		"district": "Volksdorf",
+		"precinct": "Wandsbek"
+	},
+	"102": {
+		"district": "Wandsbek",
+		"precinct": "Wandsbek"
+	},
+	"103": {
+		"district": "Wellingsbüttel ",
+		"precinct": "Wandsbek"
+	},
+	"104": {
+		"district": "Wohldorf-Ohlstedt",
+		"precinct": "Wandsbek"
+	},
+	"105": {
+		"district": "Ammersbek",
+		"precinct": "Nachbarorte"
+	},
+	"106": {
+		"district": "Bargteheide",
+		"precinct": "Nachbarorte"
+	},
+	"107": {
+		"district": "Buchholz",
+		"precinct": "Nachbarorte"
+	},
+	"108": {
+		"district": "Elmshorn",
+		"precinct": "Nachbarorte"
+	},
+	"109": {
+		"district": "Geesthacht",
+		"precinct": "Nachbarorte"
+	},
+	"110": {
+		"district": "Glinde",
+		"precinct": "Nachbarorte"
+	},
+	"111": {
+		"district": "Kaltenkirchen",
+		"precinct": "Nachbarorte"
+	},
+	"112": {
+		"district": "Lauenburg",
+		"precinct": "Nachbarorte"
+	},
+	"113": {
+		"district": "Norderstedt",
+		"precinct": "Nachbarorte"
+	},
+	"114": {
+		"district": "Pinneberg",
+		"precinct": "Nachbarorte"
+	},
+	"115": {
+		"district": "Reinbek",
+		"precinct": "Nachbarorte"
+	},
+	"116": {
+		"district": "Schwarzenbek",
+		"precinct": "Nachbarorte"
+	},
+	"117": {
+		"district": "Seevetal",
+		"precinct": "Nachbarorte"
+	},
+	"118": {
+		"district": "Wedel",
+		"precinct": "Nachbarorte"
+	},
+	"119": {
+		"district": "Winsen",
+		"precinct": "Nachbarorte"
+	},
+	"120": {
+		"district": "Wentorf",
+		"precinct": "Nachbarorte"
+	},
+	"121": {
+		"district": "Neu Wulmstorf",
+		"precinct": "Nachbarorte"
+	}
+}
